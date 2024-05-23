@@ -15,121 +15,121 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="28" alt="angular logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="28" alt="angularjs logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="28" alt="azure logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="30" alt="azuredevops logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="28" alt="azuredevops logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="azuresqldatabase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="28" alt="azuresqldatabase logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="28" alt="babel logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="bash logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/browserstack/browserstack-original.svg" height="30" alt="browserstack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/browserstack/browserstack-original.svg" height="28" alt="browserstack logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="30" alt="bun logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="28" alt="bun logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="28" alt="chrome logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cosmosdb/cosmosdb-original.svg" height="30" alt="cosmosdb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cosmosdb/cosmosdb-original.svg" height="28" alt="cosmosdb logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" alt="csharp logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="28" alt="dot-net logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="28" alt="dotnetcore logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="28" alt="firefox logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="28" alt="filezilla logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="28" alt="gimp logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="github logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="28" alt="google logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="30" alt="grunt logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="28" alt="grunt logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="30" alt="gulp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="28" alt="gulp logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="28" alt="handlebars logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="28" alt="inkscape logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="intellij logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="28" alt="jquery logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="30" alt="json logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="28" alt="json logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg" height="30" alt="knockout logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg" height="28" alt="knockout logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="28" alt="markdown logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="28" alt="microsoftsqlserver logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nhibernate/nhibernate-original.svg" height="30" alt="nhibernate logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nhibernate/nhibernate-original.svg" height="28" alt="nhibernate logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" alt="npm logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="30" alt="nuget logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="28" alt="nuget logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="30" alt="oauth logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="28" alt="oauth logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="28" alt="opera logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="php logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="28" alt="postman logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="30" alt="powershell logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="28" alt="powershell logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="28" alt="putty logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="30" alt="sonarqube logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="28" alt="sonarqube logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="28" alt="ssh logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="30" alt="subversion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="28" alt="subversion logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="28" alt="ubuntu logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="visualstudio logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="28" alt="webstorm logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="28" alt="windows8 logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="30" alt="yaml logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="28" alt="yaml logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="28" alt="yarn logo"  />
 </div>
 
 ###
